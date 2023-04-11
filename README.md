@@ -1,6 +1,19 @@
 # SnapX
 > **Silver Medalist 🥈** submission in ConsenSys' MetaMask Snap Development Hackathon conducted at InterIIT Tech Meet 11.0 | February 2023
 
+### Team:
+>Twitter Handles
+- AaryanK666
+- ankurrap
+- Aadeesh38096402
+- nishtha9960
+- shaan_kumar26
+- PartikSingh17
+- PallavAg2808
+- Sahil Saini
+
+## What does our snap do?
+
 SnapX is a metamask snap powered with notifications and account recovery features using biometric authentication.
 
 ## Demo
@@ -8,8 +21,7 @@ To see the working of SnapX, please click [here](https://drive.google.com/file/d
 
 ## Setup and Run
   - #### Run the following commands:
-
-    
+  
 ```
 yarn install
 yarn start
